@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "react30-4265f": {
+      "hosting": {
+        "github-login-firebase": [
+          "react30-4265f"
+        ]
+      }
+    }
+  }
+}
