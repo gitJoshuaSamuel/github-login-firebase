@@ -12,6 +12,7 @@ export class GithubService {
     return this.http.get(`https://api.github.com/users/${userName}`)
   }
 
+  //this is being added to test things in Git
   getRepos(repoUrl:string){
     return this.http.get(repoUrl);
   }
